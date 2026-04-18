@@ -1,7 +1,7 @@
 import requests
 import sys
 # Crypto Price Calculator
-# This Python script fetches cryptocurrency prices using the CoinCap API and calculates total value based on user input.
+# This program fetches cryptocurrency prices using the CoinCap API and calculates total value based on user input.
 
 # Replace ENTER_API_KEY_HERE with your own CoinCap API key
 my_url = "https://rest.coincap.io/v3/assets?apiKey=ENTER_API_KEY_HERE"
